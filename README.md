@@ -1,2 +1,2 @@
 # ICC-II
-Introdução à Ciência da Computação 2
+Exercícios feitos para a disciplina de "Introdução à Ciência da Computação II", fornecida pelo ICMC-USP
